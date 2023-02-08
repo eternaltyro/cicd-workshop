@@ -60,6 +60,7 @@ Terraform Cloud is the SaaS backend for Terraform we will use to store our infra
 - From there, click on "Tokens"
 - Create an API token
 - Copy the token string to `credentials.toml` - `tf_cloud_token`
+- Create an organisation in Terraform Cloud named circleci-demo-<your_github_username>
 
 #### Docker Hub
 
